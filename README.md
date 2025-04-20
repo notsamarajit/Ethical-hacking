@@ -21,6 +21,9 @@ Welcome to my **Ethical Hacking** repository! This is a personal project space w
 ## 🎯 Goal:
 To **understand the attacker mindset** and build better defenses – because to defend well, you must know how to attack ⚔️🛡️.
 
+[![Home Lab Setup](https://img.shields.io/badge/Home%20Lab%20Setup-Click%20Here-blue?style=for-the-badge)](https://github.com/notsamarajit/Ethical-hacking/blob/main/home-lab-setup/setup.md)
+
+
 > *"The quieter you become, the more you are able to hear."* – Kali Linux Philosophy
 
 ---
